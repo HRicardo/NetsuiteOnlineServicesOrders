@@ -1,0 +1,72 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NetsuiteOnlineServicesOrders" GeneratedClassName="GlobalSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="nsAccount" Type="System.String" Scope="User">
+      <Value Profile="(Default)">607466</Value>
+    </Setting>
+    <Setting Name="customersAcumByShippingDate" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="nsCustomerTerms" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="culture" Type="System.String" Scope="User">
+      <Value Profile="(Default)">en-US</Value>
+    </Setting>
+    <Setting Name="nsUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">jmvargas@vistaflor.com</Value>
+    </Setting>
+    <Setting Name="nsCustomerForm" Type="System.String" Scope="User">
+      <Value Profile="(Default)">12</Value>
+    </Setting>
+    <Setting Name="nsOrderForm" Type="System.String" Scope="User">
+      <Value Profile="(Default)">119</Value>
+    </Setting>
+    <Setting Name="nsCustomerForm1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">14</Value>
+    </Setting>
+    <Setting Name="nsOrderForm1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">120</Value>
+    </Setting>
+    <Setting Name="nsSalesRoleId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="AddLines" Type="System.String" Scope="User">
+      <Value Profile="(Default)">No</Value>
+    </Setting>
+    <Setting Name="nsRole" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="nsSalesRep" Type="System.String" Scope="User">
+      <Value Profile="(Default)">459064</Value>
+    </Setting>
+    <Setting Name="pathLog" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\\temp\</Value>
+    </Setting>
+    <Setting Name="nsCourierType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Fedex,UPS,Other,Transflora</Value>
+    </Setting>
+    <Setting Name="nsPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">M4rt1n3z$</Value>
+    </Setting>
+    <Setting Name="Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CST100WA,WA100AR,FIF100FL,GLO11FL,SOU100FL,AMA100WA</Value>
+    </Setting>
+    <Setting Name="exSheet" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DOCS,BLO,FIF,GLO,DDM,FLO,SOU,PAC,LST,FTD,ROS,FEX,AMA,BOU</Value>
+    </Setting>
+    <Setting Name="nsReseller" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CST100WA,LST100ME,DUD100TX,FIF100FL,FG100,SOU100FL,GLO100FL,PAC100CA,ST100COL,BLO100TX,LOR100NY,VSN100FL,VistaflorOnline,VOL100OH,ROS100NY,WWE100AR,WAL100AR,WAK100NJ,MIL100PA,RAI100PA,JWF100PR,INB100FL,FLO100FL,1800100PK,CHR200TX,CMK100TX,DBS100MO,KNO200AR,QUA200FL,MUL100BV,TKR100FL,XPA200FL,STO100PA,ECO100FL,DIL100AR,HOL100FL,MEI100MI,FLW100FL,1800100NY,FAL100MA,BRD100BV,WHO100TX,QUI100MA,WEI100PA,CST100UK,TEST100US,TEST1800NY,HOF100ON,WEG100NY,WIN100FL,1800300NY,CST100MX,FEX100FL,SIE100CA,KIN100NY,CYS100VT,AMA100WA,KEY100NH,BOU100CA,SUP100MN,FTD100IL,AHO100PA</Value>
+    </Setting>
+    <Setting Name="nsReseller1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CST100WA,WA100AR,FIF100FL,GLO11FL,SOU100FL,GLO100FL,PAC100CA,ST100COL,BLO100TX,LOR100NY,VSN100FL,VistaflorOnline,VOL100OH,ROS100NY,FEX100FL,AMA100WA,KEY100NH,BOU100CA</Value>
+    </Setting>
+    <Setting Name="nsShipType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">IPD,IP,Domestic,FedexNextDay,DHL,BlueCargo,Other,Express Saver,Express</Value>
+    </Setting>
+    <Setting Name="nsParentCustomerTaxable" Type="System.String" Scope="User">
+      <Value Profile="(Default)">468762</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
