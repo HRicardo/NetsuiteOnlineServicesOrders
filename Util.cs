@@ -1132,7 +1132,7 @@ namespace NetsuiteOnlineServicesOrders
         }
 
         public static string AddSalesOrder(int numReseller, RecordRef objCustomer, string strPoNumber, string strOrderNumber, DateTime datOrderDate,
-            DateTime datInsertDate, DateTime datEventDate, ArrayList arrItems, string strUserId, DateTime datInvoiceDate, out string strError)
+            DateTime datInsertDate, DateTime datEventDate, ArrayList arrItems, string strUserId, DateTime datInvoiceDate, string strClass, out string strError)
         {
             strError = "";
             string strId = "";

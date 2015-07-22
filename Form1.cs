@@ -84,7 +84,10 @@ namespace NetsuiteOnlineServicesOrders
                 }
                 else
                 {
-                    Common.LoadTable(dtData);
+                    if (comboBox1.SelectedItem.Equals("FTD"))
+                        Common.LoadTableMassMarket(dtData);
+                    else
+                        Common.LoadTable(dtData);
                 }
             }
         }

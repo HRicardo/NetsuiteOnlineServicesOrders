@@ -24,8 +24,8 @@ C:\Users\ricardo_2\Documents\Visual Studio 2013\Projects\NetsuiteOnlineServicesO
 C:\Users\ricardo_2\Documents\Visual Studio 2013\Projects\NetsuiteOnlineServicesOrders\obj\x86\Debug\NetsuiteOnlineServicesOrders.pdb
 C:\Users\ricardo_2\Documents\Visual Studio 2013\Projects\NetsuiteOnlineServicesOrders\bin\Debug\NetsuiteOnlineServicesOrders.exe
 C:\Users\ricardo_2\Documents\Visual Studio 2013\Projects\NetsuiteOnlineServicesOrders\bin\Debug\NetsuiteOnlineServicesOrders.pdb
-C:\Users\ricardo_2\Documents\Visual Studio 2013\Projects\NetsuiteOnlineServicesOrders\obj\x86\Debug\NetsuiteOnlineServicesOrders.csprojResolveAssemblyReference.cache
 C:\Users\ricardo_2\Documents\Visual Studio 2013\Projects\NetsuiteOnlineServicesOrders\obj\x86\Debug\NetsuiteOnlineServicesOrders.Form1.resources
 C:\Users\ricardo_2\Documents\Visual Studio 2013\Projects\NetsuiteOnlineServicesOrders\obj\x86\Debug\NetsuiteOnlineServicesOrders.Form2.resources
 C:\Users\ricardo_2\Documents\Visual Studio 2013\Projects\NetsuiteOnlineServicesOrders\obj\x86\Debug\NetsuiteOnlineServicesOrders.Properties.Resources.resources
 C:\Users\ricardo_2\Documents\Visual Studio 2013\Projects\NetsuiteOnlineServicesOrders\obj\x86\Debug\NetsuiteOnlineServicesOrders.csproj.GenerateResource.Cache
+C:\Users\ricardo_2\Documents\Visual Studio 2013\Projects\NetsuiteOnlineServicesOrders\obj\x86\Debug\NetsuiteOnlineServicesOrders.csprojResolveAssemblyReference.cache
